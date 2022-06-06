@@ -1,0 +1,20 @@
+header{
+  display: flex;
+  justify-content: start;
+  padding: 20px;
+}
+.logo{
+  height: 40px;
+}
+header a{
+  margin: 0 20px;
+  align-self: center;
+  text-decoration: none;
+  color: #000;
+}
+header a:hover{
+  margin: 0 20px;
+  align-self: center;
+  text-decoration: underline;
+  color: #ffba00;
+}
